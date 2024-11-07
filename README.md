@@ -1,6 +1,10 @@
 # Christmas Tree LED Ornament
 This project creates a festive, green Christmas tree ornament featuring 10 twinkling LED lights and holiday tunes. 
 Inspired by [Justin’s ornament project](https://github.com/incanus/ornament), this ornament is designed with an ATtiny85 microcontroller, making it perfect for a holiday decoration. 
+![PCB_ornaments_image](https://github.com/user-attachments/assets/bc0bf0f5-5b79-4c2f-a5cc-7b035fcb8461)
+[Video in action](https://youtu.be/ctR4pCAqMrQ?si=eUrizgF7dfWRZ8VW) 
+
+
 
 
 ## Features
@@ -13,6 +17,7 @@ Use the slide switch on the back to turn the ornament on or off. Once powered on
 Press the button to play holiday-themed songs. Each press advances to the next song in the sequence.
 
 ## Circuit
+![image](https://github.com/user-attachments/assets/b5b5f301-a6c7-4c98-8272-16c417b00c7a)
 To drive the LED display efficiently, the circuit uses a D331 (S8050) transistor to handle the LED current, 
 ensuring that the ATtiny85 microcontroller isn’t overloaded. 
 The 1kΩ base resistor provides sufficient current to fully saturate the transistor, enabling it to manage the 20 mA needed for five LEDs in parallel.
