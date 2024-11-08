@@ -3,9 +3,10 @@ This project creates a festive, green Christmas tree ornament featuring 10 twink
 
 Inspired by [Justin’s ornament project](https://github.com/incanus/ornament), this ornament is designed with an ATtiny85 microcontroller, making it perfect for a holiday decoration. 
 
+![KakaoTalk_20241108_003517334](https://github.com/user-attachments/assets/751fccee-a0e6-40fa-a2e4-2da3b07997b6)
 ![Remove background project_crop](https://github.com/user-attachments/assets/a9354102-9ac7-42e1-9c3a-504289c94339)
 
-**[Video in action](https://youtu.be/ctR4pCAqMrQ?si=eUrizgF7dfWRZ8VW)**
+**[Check out the video in action](https://youtu.be/ctR4pCAqMrQ?si=eUrizgF7dfWRZ8VW)**
 
 
 
